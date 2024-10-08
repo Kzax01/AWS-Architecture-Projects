@@ -1,12 +1,19 @@
-# 🌟 Welcome to My GitHub! 🌟
+# Welcome to My GitHub! 🎉
 
-Welcome to my GitHub where I will share my AWS learning journey!
+Here, I will share my AWS learning journey!
 
-I will divide it into two distinct parts:
+## 📚 Learning Structure
 
-## 📚 Part 1
-- **Hands-on projects + courses on basic AWS services** – This will help with preparing for the AWS Cloud Practitioner certification. ☁️
-- **📄 I’ve created a PDF summarizing all the AWS services I recommend reading before diving in!**
+I will divide my content into two distinct parts:
 
-## 🛠️ Part 2
-- **Building AWS architectures based on real-life inspired scenarios** – This will be our preparation for the AWS Solutions Architect - Associate! 🚀
+### 1️⃣ Hands-on + Courses on Basic AWS Services
+This will help in preparing for the AWS Cloud Practitioner certification.
+
+### 2️⃣ Building AWS Architectures Based on Real-Life Scenarios
+This will be our preparation for the AWS Solution Architect - Associate!
+
+---
+
+📄 I've created a PDF summarizing all the AWS services that I recommend reading beforehand: [AWS CCP Guide](https://github.com/Kzax01/AWS-Cloud-practitioner/blob/main/AWS-%20CCP-%20Kenza%20S%20guide.pdf)
+
+Feel free to explore, learn, and let's embark on this journey together! 🌟
