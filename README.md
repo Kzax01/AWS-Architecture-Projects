@@ -1,1 +1,1 @@
-# AWS-Cloud-practitioner
+# Get Started with AWS - Cloud Practitioner hands-on 
