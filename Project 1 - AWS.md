@@ -1,4 +1,4 @@
-# 🛒 Scenario 1: Migrating an E-commerce Website with Variable Traffic
+# 🛒 Project 1: Migrating an E-commerce Website with Variable Traffic
 
 ## The Problem:
 A client wants to migrate their e-commerce website to the cloud. The site experiences unpredictable traffic, with high peaks during promotional events and quieter periods for the rest of the year. The client wants to minimize costs while ensuring the site remains available during high-demand periods. Currently, they are using a MySQL relational database.
