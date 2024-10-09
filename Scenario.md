@@ -3,7 +3,7 @@
 ## The Problem:
 A client wants to migrate their e-commerce website to the cloud. The site experiences unpredictable traffic, with high peaks during promotional events and quieter periods for the rest of the year. The client wants to minimize costs while ensuring the site remains available during high-demand periods. Currently, they are using a MySQL relational database.
 
-![Scenario 1 Diagram](Diagram%20AWS/Scenario%201%20completed.jpg)
+![Scenario 1 Diagram](chemin/vers/ton/diagramme.png)
 
 
 ## 💡 AWS Solution:
@@ -29,28 +29,28 @@ Here are the core AWS services that provide a robust, scalable, and cost-effecti
 
 ## 🔗 How Does it All Work Together?
 Here’s a simplified breakdown of how the components integrate:
-1. Users (Clients) access the website through their browsers 🌍.
+1. Users (Clients) access the website through their browsers.
 2. Amazon CloudFront handles requests for static and dynamic content:
    - Cached content is immediately served by CloudFront for faster response times and reduced server load.
-   - For non-cached content, CloudFront pulls static files directly from Amazon S3 🗂️, storing them locally for future requests.
+   - For non-cached content, CloudFront pulls static files directly from Amazon S3, storing them locally for future requests.
 3. Elastic Load Balancer (ELB) balances incoming traffic across multiple EC2 instances in an Auto Scaling group:
    - Auto Scaling automatically adjusts the number of EC2 instances based on traffic levels to ensure the site remains responsive and cost-efficient.
-4. Amazon RDS for MySQL stores all transactional data (like customer orders, inventory) and is isolated in a private subnet within Amazon VPC 🔐 for enhanced security.
+4. Amazon RDS for MySQL stores all transactional data (like customer orders, inventory) and is isolated in a private subnet within Amazon VPC for enhanced security.
 5. Internet Gateway and NAT Gateway ensure EC2 instances and RDS can access necessary external resources (e.g., updates, APIs) while staying secure in the VPC.
 6. Amazon CloudWatch monitors the overall health of your services (EC2, RDS, Auto Scaling) and triggers alerts and scaling actions when needed to keep performance optimal.
 
 ## 🛠️ How These Services Solve Scale, Cost, and Performance Challenges:
-### Scaling Issues:
+### ⚖️ Scaling Issues:
 - Amazon EC2 with Auto Scaling dynamically adjusts the number of instances, ensuring you’re not over-provisioned during low traffic and always available during high peaks.
 - Elastic Load Balancer (ELB) distributes traffic evenly across EC2 instances, reducing bottlenecks and enhancing redundancy.
 - Amazon CloudFront caches static content across global Points of Presence (PoPs), offloading traffic from your origin servers.
 
-### Cost Concerns:
+###  💰 Cost Concerns:
 - Amazon EC2 with Auto Scaling automatically reduces the number of instances when traffic is low, minimizing costs without sacrificing performance.
 - Amazon S3 offers low-cost storage for static content and long-term storage solutions, helping to optimize your budget.
 - Amazon CloudWatch identifies inefficient configurations and tracks resource usage to help you fine-tune for cost savings.
 
-### Performance Problems:
+###  🚀 Performance Problems:
 - Amazon RDS for MySQL uses SSD storage and Multi-AZ replication to ensure high performance and availability, even in the event of hardware failure.
 - Amazon CloudFront reduces latency for global users by serving cached content from the nearest location.
 - Amazon CloudWatch constantly monitors your resources, allowing you to quickly resolve performance bottlenecks and scale dynamically as needed.
@@ -60,5 +60,24 @@ With these AWS services, your e-commerce platform will not only scale efficientl
 🔐 Secure, 💰 Cost-effective, and 🏎️ High-performance—everything your e-commerce platform needs to thrive in the cloud!
 
 ## 🎯 Other Options to Consider:
-- 🚀 **Amazon ElastiCache**: If your e-commerce site handles a large volume of transactions or user sessions, consider integrating Amazon ElastiCache (Redis/Memcached). This can significantly boost back-end performance by caching temporary data, reducing the load on your database.
+- ⚡  **Amazon ElastiCache**: If your e-commerce site handles a large volume of transactions or user sessions, consider integrating Amazon ElastiCache (Redis/Memcached). This can significantly boost back-end performance by caching temporary data, reducing the load on your database.
 - 📬 **Amazon SQS / SNS**: To improve your architecture and decouple the components of your application, you can leverage Amazon SQS (Simple Queue Service) or Amazon SNS (Simple Notification Service). These services help manage asynchronous communications between different services, ensuring better scalability and reliability in your system.
+
+# 📚 Resources
+
+Here are the links to the AWS documentation for the services used in this scenario:
+
+- **Amazon EC2 with Auto Scaling**: [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
+- **Amazon RDS for MySQL**: [AWS RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_MySQL.html)
+- **Amazon CloudFront**: [AWS CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+- **Amazon S3**: [AWS S3 Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- **Amazon VPC (Virtual Private Cloud)**: [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
+- **Internet Gateway & NAT Gateway**: [AWS Internet Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html) and [AWS NAT Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Gateway.html)
+- **Elastic Load Balancer (ELB)**: [AWS ELB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
+- **Amazon CloudWatch**: [AWS CloudWatch Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+
+
+### 💬 Let's Connect!
+Thank you for taking the time to read through my project! If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+
+### ☁️  I look forward to connecting with you!
