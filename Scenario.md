@@ -3,7 +3,7 @@
 ## The Problem:
 A client wants to migrate their e-commerce website to the cloud. The site experiences unpredictable traffic, with high peaks during promotional events and quieter periods for the rest of the year. The client wants to minimize costs while ensuring the site remains available during high-demand periods. Currently, they are using a MySQL relational database.
 
-<img src="diagrams/Scenario%201%20completed.jpg" alt="Scenario 1 Completed" width="800" />
+![Scenario 1 Diagram](chemin/vers/ton/diagramme.png)
 
 
 ## 💡 AWS Solution:
