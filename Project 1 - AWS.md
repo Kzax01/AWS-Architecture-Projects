@@ -21,7 +21,7 @@ Here are the core AWS services that provide a robust, scalable, and cost-effecti
 - **Amazon Route 53**: Manages DNS routing for your application, enabling users to access your resources via friendly domain names.
 - **AWS WAF (Web Application Firewall)**: Protects your application from common web exploits, ensuring enhanced security.
 
-🤔 **Why These Services?**
+## 🤔 **Why These Services?**
 
 - **Amazon EC2 with Auto Scaling**:
     - Automatically adjusts server capacity to match demand, reducing costs during off-peak times.
@@ -51,7 +51,7 @@ Here are the core AWS services that provide a robust, scalable, and cost-effecti
 - **AWS WAF**:
     - Helps protect your web applications from common security threats and vulnerabilities.
 
-🔗 **How Does it All Work Together?**
+## 🔗 **How Does it All Work Together?**
 
 Here’s a simplified breakdown of how the components integrate:
 
@@ -69,7 +69,7 @@ Here’s a simplified breakdown of how the components integrate:
 7. Amazon Route 53 resolves domain names to the appropriate AWS resources, guiding user traffic effectively.
 8. AWS WAF filters incoming web traffic to protect the application from threats.
 
-🛠️ **How These Services Solve Scale, Cost, and Performance Challenges:**
+## 🛠️ **How These Services Solve Scale, Cost, and Performance Challenges:**
 
 ⚖️ **Scaling Issues**:
 - **Amazon EC2 with Auto Scaling**:
@@ -104,16 +104,19 @@ Here’s a simplified breakdown of how the components integrate:
     - Constantly monitors your resources.
     - Allows you to quickly resolve performance bottlenecks and scale dynamically as needed.
 
-💡 **Final Thoughts**:
+## 💡 **Final Thoughts**:
 With these AWS services, your e-commerce platform will not only scale efficiently but also operate at lower costs and provide an enhanced user experience globally. Each component plays a crucial role in balancing the demands of scale, cost-efficiency, and performance, ensuring a robust and elastic system that adapts to your business needs. 🔐 Secure, 💰 Cost-effective, and 🏎️ High-performance—everything your e-commerce platform needs to thrive in the cloud!
 
-🎯 **Other Options to Consider**:
+## 🎯 **Other Options to Consider**:
 - ⚡ **Amazon ElastiCache**:
     - If your e-commerce site handles a large volume of transactions or user sessions, consider integrating Amazon ElastiCache (Redis/Memcached).
     - This can significantly boost back-end performance by caching temporary data, reducing the load on your database.
 - 📬 **Amazon SQS / SNS**:
     - To improve your architecture and decouple the components of your application, you can leverage Amazon SQS (Simple Queue Service) or Amazon SNS (Simple Notification Service).
     - These services help manage asynchronous communications between different services, ensuring better scalability and reliability in your system.
+- 💸 **AWS Cost Explorer**:
+For better budget management, AWS Cost Explorer lets you track and forecast expenses, allowing you to optimize resources and avoid unnecessary costs.
+
 
 # 📚 Resources
 Here are the links to the AWS documentation for the services used in this scenario:
