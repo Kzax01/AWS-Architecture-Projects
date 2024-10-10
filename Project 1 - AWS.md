@@ -126,6 +126,7 @@ Here are the links to the AWS documentation for the services used in this scenar
   - [AWS NAT Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Gateway.html)
 - **Application Load Balancer (ALB)**: [AWS ALB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
 - **Amazon CloudWatch**: [AWS CloudWatch Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+- **Tool Used for designing the architecture**: [Draw.io](https://draw.io/)
 
 ### 💬 Let's Connect!
 Thank you for taking the time to read through my project! If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
