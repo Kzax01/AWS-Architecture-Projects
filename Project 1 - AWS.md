@@ -1,9 +1,9 @@
-# 🛒 Scenario 1: Migrating an E-commerce Website with Variable Traffic
+# 🛒 Project 1: Migrating an E-commerce Website with Variable Traffic
 
 ## The Case:
 A client wants to migrate their e-commerce website to the cloud. The site experiences unpredictable traffic, with high peaks during promotional events and quieter periods for the rest of the year. The client wants to minimize costs while ensuring the site remains available during high-demand periods. Currently, they are using a MySQL relational database.
 
-![AWS Architecture Diagram](https://github.com/Kzax01/AWS-Architecture-Projects/blob/main/Diagram%20AWS/Project%201%20AWS%20-%20issue%20fixed.drawio.svg)
+![AWS Architecture Diagram](https://raw.githubusercontent.com/Kzax01/AWS-Architecture-Projects/main/Diagram%20AWS/Project%201%20AWS%20-%20animated.svg)
 
 
 ## 💡 AWS Solution:
