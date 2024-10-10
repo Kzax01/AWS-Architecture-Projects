@@ -7,7 +7,7 @@ The goal was to design an AWS architecture for an e-commerce site looking to **m
 ## 💡 **The Challenge** 
 How do you **minimize costs** while keeping the site **highly available** during peak times, all while managing a MySQL relational database? This project was a chance for me to **showcase my cloud architecture skills** and grow through the learning process! 🚀 
 
-
+![AWS Project LinkedIn](Diagram%20AWS/aws%20project%20linkedin.jpg)
 ---
 
 # ⚠️ **Errors in the First Version**  
@@ -42,7 +42,7 @@ After receiving **fantastic feedback** from AWS professionals, I revamped my arc
 4. **Cost-Effective Auto Scaling**:  
    I reworked **Auto Scaling**, allowing for **dynamic resource management**, ensuring minimal costs during low traffic and high performance during peak times. 🛠️💰
 
-**Here’s the final, much-improved architecture**:  
+**Here’s the final breakdown on the much-improved architecture**:  
 [Improved AWS Architecture on GitHub](https://github.com/Kzax01/AWS-Architecture-Projects/blob/main/Project%201%20-%20AWS.md)
 
 ---
