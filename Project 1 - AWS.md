@@ -3,8 +3,7 @@
 ## The Case:
 A client wants to migrate their e-commerce website to the cloud. The site experiences unpredictable traffic, with high peaks during promotional events and quieter periods for the rest of the year. The client wants to minimize costs while ensuring the site remains available during high-demand periods. Currently, they are using a MySQL relational database.
 
-![Final project 1 - Correct version](https://raw.githubusercontent.com/Kzax01/AWS-Architecture-Projects/afbf43f2b1aba102eb2b05b707c37758aab27fe9/Diagram%20AWS/Final%20project%201%20-%20Correct%20version.jpg)
-
+![AWS Architecture Diagram](https://github.com/Kzax01/AWS-Architecture-Projects/blob/main/Diagram%20AWS/Project%201%20AWS%20-%20issue%20fixed.drawio.svg)
 
 
 ## 💡 AWS Solution:
