@@ -6,6 +6,7 @@ A client wants to migrate their e-commerce website to the cloud. The site experi
 ![Final project 1 - Correct version](https://raw.githubusercontent.com/Kzax01/AWS-Architecture-Projects/afbf43f2b1aba102eb2b05b707c37758aab27fe9/Diagram%20AWS/Final%20project%201%20-%20Correct%20version.jpg)
 
 
+
 ## 💡 AWS Solution:
 Here are the core AWS services that provide a robust, scalable, and cost-effective architecture:
 
@@ -116,17 +117,21 @@ With these AWS services, your e-commerce platform will not only scale efficientl
 
 # 📚 Resources
 Here are the links to the AWS documentation for the services used in this scenario:
-- **Amazon EC2 with Auto Scaling**: [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
-- **Amazon RDS for MySQL**: [AWS RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_MySQL.html)
-- **Amazon CloudFront**: [AWS CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- **Amazon S3**: [AWS S3 Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
-- **Amazon VPC (Virtual Private Cloud)**: [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
-- **Internet Gateway & NAT Gateway**: 
-  - [AWS Internet Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html) 
-  - [AWS NAT Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Gateway.html)
-- **Application Load Balancer (ALB)**: [AWS ALB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
-- **Amazon CloudWatch**: [AWS CloudWatch Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
-- **Tool Used for designing the architecture**: [Draw.io](https://draw.io/)
+- **Amazon EC2 with Auto Scaling**: [AWS EC2 Documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
+- **Amazon RDS for MySQL**: [AWS RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_MySQL.html)  
+- **Amazon CloudFront**: [AWS CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Welcome.html)  
+- **Amazon S3**: [AWS S3 Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)  
+- **Amazon VPC (Virtual Private Cloud)**: [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)  
+- **Internet Gateway**: [AWS Internet Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)  
+- **NAT Gateway**: [AWS NAT Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)  
+- **Application Load Balancer (ALB)**: [AWS ALB Documentation](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)  
+- **Amazon CloudWatch**: [AWS CloudWatch Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)  
+- **Amazon Route 53**: [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)  
+- **AWS WAF (Web Application Firewall)**: [AWS WAF Documentation](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html)  
+- **Tool Used for Designing the Architecture**: [Draw.io](https://www.draw.io/)  
+
+
+
 
 ### 💬 Let's Connect!
 Thank you for taking the time to read through my project! If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
