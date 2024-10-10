@@ -7,7 +7,7 @@ The goal was to design an AWS architecture for an e-commerce site looking to **m
 ## 💡 **The Challenge** 
 How do you **minimize costs** while keeping the site **highly available** during peak times, all while managing a MySQL relational database? This project was a chance for me to **showcase my cloud architecture skills** and grow through the learning process! 🚀 
 
-
+![AWS Project LinkedIn](Diagram%20AWS/aws%20project%20linkedin.jpg)
 ---
 
 # ⚠️ **Errors in the First Version**  
