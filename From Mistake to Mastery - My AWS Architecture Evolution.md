@@ -44,7 +44,7 @@ After receiving **fantastic feedback** from AWS professionals, I revamped my arc
    I reworked **Auto Scaling**, allowing for **dynamic resource management**, ensuring minimal costs during low traffic and high performance during peak times. 🛠️💰
 
 **Here’s the final breakdown on the much-improved architecture**:  
-[Improved AWS Architecture on GitHub](https://github.com/Kzax01/AWS-Architecture-Projects/blob/main/Project%201%20-%20AWS.md)
+[Improved AWS Architecture on GitHub](https://github.com/Kzax01/AWS-Architecture-Projects/blob/main/Project%201%20%3A%20Migrating%20an%20E-commerce%20Website%20with%20Variable%20Traffic%20-%20AWS.md)
 
 ---
 
