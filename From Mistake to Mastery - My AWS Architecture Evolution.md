@@ -4,6 +4,7 @@ As you might remember, I recently shared my **first attempt** at designing an AW
 Thanks to the **invaluable feedback** from cloud professionals and enthusiasts, I decided to go back to the drawing board and rework it—this time with a more **secure** and **scalable** approach. 
 ## ⚙️ **Scenario Reminder** 
 The goal was to design an AWS architecture for an e-commerce site looking to **migrate to the cloud**. The site's traffic was unpredictable, with big spikes during promotions and quiet periods otherwise. The challenge was to ensure smooth operations and avoid downtime during high-traffic moments. 
+_**This is a self-created fictional scenario.**_
 ## 💡 **The Challenge** 
 How do you **minimize costs** while keeping the site **highly available** during peak times, all while managing a MySQL relational database? This project was a chance for me to **showcase my cloud architecture skills** and grow through the learning process! 🚀 
 
