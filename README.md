@@ -9,7 +9,7 @@ Hello! My name is **Kenza**, and here I'll be sharing my **AWS learning journey*
 
 In this GitHub, I plan to share **examples of AWS architectures** inspired by real-life scenarios to solidify my knowledge and aid my preparation for the **AWS Solutions Architect - Associate** exam! 
 
-🔐 My ultimate goal is to become a **Cloud Security Engineer** specializing in **AWS/Azure**!
+🎯 My ultimate goal is to become an **AWS Cloud Security Engineer.**
 
 Feel free to explore, learn, and let’s embark on this journey together! 
 
