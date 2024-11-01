@@ -1,17 +1,27 @@
-# 🌟 Welcome to My GitHub! 
+# 🌟 Welcome to My GitHub!
 
-Hello! My name is **Kenza**, and here I'll be sharing my **AWS learning journey**!
+Hi! I'm **Kenza**, and I'm excited to share my **AWS learning journey** with you!
 
-📚 I am currently a **self-taught AWS student** and have completed the **AWS Certified Cloud Practitioner (CCP)**, which laid a fantastic foundation for understanding AWS services. Since then, I’ve been dedicated to helping others achieve this certification as well!
+Feel free to explore and learn alongside me!
 
-📝 I’ve created a PDF that consolidates all the services mentioned in the CCP because I know from experience that it can get overwhelming with all the resources available!
- [AWS CCP Guide](https://github.com/Kzax01/AWS-Cloud-practitioner/blob/main/AWS-%20CCP-%20Kenza%20S%20guide.pdf)
+----
+## 🛒 Project 1: Migrating an E-commerce Website with Variable Traffic
 
-In this GitHub, I plan to share **examples of AWS architectures** inspired by real-life scenarios to solidify my knowledge and aid my preparation for the **AWS Solutions Architect - Associate** exam! 
+In this section, we discuss **Project 1**, where a client migrates their e-commerce site to the cloud to handle unpredictable traffic while minimizing costs. 
+ [Check out the project details here](https://github.com/Kzax01/AWS-E-commerce-migration-architecture/blob/main/Project%201%20Migrating%20an%20E-commerce%20Website%20with%20Variable%20Traffic%20-%20AWS.md).
 
-🎯 My ultimate goal is to become an **AWS Cloud Security Engineer.**
+---
 
-Feel free to explore, learn, and let’s embark on this journey together! 
+## ⚠️ Learning from Mistakes
+
+Next, we’ll explore **common mistakes in cloud architecture**. Remember, **falling is part of the journey**—it's how we learn and improve!
+
+ [See how to improve your architecture here](https://github.com/Kzax01/AWS-E-commerce-migration-architecture/blob/main/From%20Mistake%20to%20Mastery%20-%20My%20AWS%20Architecture%20Evolution.md).
+
+---
+
+Feel free to dive into these resources! 
 
 ### 💬 Let's Connect!
- If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+
+Connect with me on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud).
